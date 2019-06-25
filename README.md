@@ -25,4 +25,4 @@ Rolbeheer
 Policybeheer
 * [Policies beheren](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Policies_beheren)
 Administrator
-Rechten binnen de User Management Engine toekennen
+* [Rechten binnen de User Management Engine] toekennen(https://wiki.antwerpen.be/ACPAAS/index.php/Rechten_binnen_de_User_Management_Engine_toekennen)
