@@ -19,17 +19,17 @@ Meer info over het [beveiligen van applicaties met UME en APIs](https://wiki.ant
 ## UME en rol provisioning 
 
 1. Toegang aanvragen
-- [Aanvragen van een rol](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Aanvragen_van_een_rol)
-- [Goedkeuren van een rol](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Goedkeuren_van_een_rol)
-- [Status van rolaanvragen bekijken](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Status_van_rolaanvragen_bekijken)
-- [Toegekende rollen bekijken](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Toegekende_rollen_bekijken)
+   - [Aanvragen van een rol](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Aanvragen_van_een_rol)
+   - [Goedkeuren van een rol](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Goedkeuren_van_een_rol)
+   - [Status van rolaanvragen bekijken](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Status_van_rolaanvragen_bekijken)
+   - [Toegekende rollen bekijken](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Toegekende_rollen_bekijken)
 
 2. Rolbeheer
-- [Opvoeren van rollen (CSV)](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Opvoeren_van_rollen_(CSV))
-- [Rollen beheren (manueel)](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Rollen_beheren_(manueel))
+   - [Opvoeren van rollen (CSV)](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Opvoeren_van_rollen_(CSV))
+   - [Rollen beheren (manueel)](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Rollen_beheren_(manueel))
 
 3. Policybeheer
-- [Policies beheren](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Policies_beheren)
+   - [Policies beheren](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Policies_beheren)
 
 4. Administrator
-- [Rechten binnen de User Management Engine toekennen](https://wiki.antwerpen.be/ACPAAS/index.php/Rechten_binnen_de_User_Management_Engine_toekennen)
+   - [Rechten binnen de User Management Engine toekennen](https://wiki.antwerpen.be/ACPAAS/index.php/Rechten_binnen_de_User_Management_Engine_toekennen)
