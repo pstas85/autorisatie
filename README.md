@@ -13,7 +13,7 @@ Via de APIs 'Authz' of 'MeAuth' kan een toepassing de permissies van een gebruik
 
 ## UME en APIs
 
-Meer info over het gebruik van [UME en de APIs](https://wiki.antwerpen.be/ACPAAS/index.php/Securing_application_with_the_user_management_Engine) is hier terug te vinden.
+Meer info over het [beveiligen van applicaties met UME en de APIs](https://wiki.antwerpen.be/ACPAAS/index.php/Securing_application_with_the_user_management_Engine) is hier terug te vinden.
 
 
 ## UME en rol provisioning 
