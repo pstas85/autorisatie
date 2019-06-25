@@ -13,10 +13,10 @@ Via de APIs 'Authz' of 'MeAuth' kan een toepassing de permissies van een gebruik
 
 ## UME en APIs
 
-Meer info over het gebruik van UME en de APIs is hier terug te vinden:
-https://wiki.antwerpen.be/ACPAAS/index.php/Securing_application_with_the_user_management_Engine
+Meer info over het gebruik van [UME en de APIs](https://wiki.antwerpen.be/ACPAAS/index.php/Securing_application_with_the_user_management_Engine) is hier terug te vinden.
 
-## Rol provisioning 
+
+## UME en rol provisioning 
 
 Toegang aanvragen
 * [Aanvragen van een rol](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Aanvragen_van_een_rol)
