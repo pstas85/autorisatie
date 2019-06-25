@@ -2,14 +2,14 @@
 
 ## Introductie
 
-The User Management Engine is used to configure the user’s permissions. 
+De [User Management Engine](https://acpaas.digipolis.be/nl/product/user-management-engine) faciliteert de configuratie van de permissies van een gebruiker binnen een toepassing.
 
-This can only be done for users with an M-Profile (employees) or for system accounts.
+Opgelet! Het betreft enkel gebruikers met een M-profiel (typisch medewerkers) of systeem accounts.
 
-Using the Authz or MeAutz service it is possible for an application to request the user's permission.
+Via de APIs 'Authz' of 'MeAuth' kan een toepassing de permissies van een gebruiker opvragen:
 
-1. Authz = An API to get users permissions by user id.
-2. MeAuthz = An API to get users permissions by OAuth token.
+1. Authz = is een API om de permissies van een gebruiker op te vragen op basis van user id.
+2. MeAuthz = is een API om de permissies van een gebruiker op te vragen op basis van OAuth token.
 
 
 https://wiki.antwerpen.be/ACPAAS/index.php/Securing_application_with_the_user_management_Engine
