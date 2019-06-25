@@ -16,13 +16,13 @@ https://wiki.antwerpen.be/ACPAAS/index.php/Securing_application_with_the_user_ma
 
 Toegang aanvragen
 * [Aanvragen van een rol](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Aanvragen_van_een_rol)
-* Goedkeuren van een rol
-* Status van rolaanvragen bekijken
-Toegekende rollen bekijken
+* [Goedkeuren van een rol](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Goedkeuren_van_een_rol)
+* [Status van rolaanvragen bekijken](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Status_van_rolaanvragen_bekijken)
+* Toegekende rollen bekijken](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Toegekende_rollen_bekijken)
 Rolbeheer
-Opvoeren van rollen (CSV)
-Rollen beheren (manueel)
+* [Opvoeren van rollen (CSV)](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Opvoeren_van_rollen_(CSV))
+* [Rollen beheren (manueel)](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Rollen_beheren_(manueel))
 Policybeheer
-Policies beheren
+* [Policies beheren](https://wiki.antwerpen.be/ACPAAS/index.php/UM_Engine_-_Policies_beheren)
 Administrator
 Rechten binnen de User Management Engine toekennen
