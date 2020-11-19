@@ -1,4 +1,6 @@
-# Autorisatie
+De [richtlijnen rond identiteit authenticatie, en autorisatie](https://acpaas.digipolis.be/nl/docs/identiteit-authenticatie-en-autorisatie) bevatten een toelichting over welke componenten in welk autorisatie scenario gebruikt worden. Hieronder vindt je een kort overzicht over UME & BRaaS.
+
+# Autorisatie via UME
 
 ## Introductie
 
@@ -14,7 +16,6 @@ Via de APIs 'Authz' of 'MeAuth' kan een toepassing de permissies van een gebruik
 ## UME en APIs
 
 Meer info over het [beveiligen van applicaties met UME en APIs](https://wiki.antwerpen.be/ACPAAS/index.php/Securing_application_with_the_user_management_Engine) is hier terug te vinden.
-
 
 ## UME en rol provisioning 
 
@@ -33,3 +34,13 @@ Meer info over het [beveiligen van applicaties met UME en APIs](https://wiki.ant
 
 4. Administrator
    - [Rechten binnen de User Management Engine toekennen](https://wiki.antwerpen.be/ACPAAS/index.php/Rechten_binnen_de_User_Management_Engine_toekennen)
+   
+# Autorisatie via BRaaS
+De [BRaaS Engine](https://acpaas.digipolis.be/nl/product/braas-engine) faciliteert de configuratie van de rechten van een subject (gebruiker/toepassing/...) binnen een toepassing.
+
+Het betreft gebruikers met volgende profielen:
+1. Mprofiel (in combinatie met UME)
+2. Aprofiel
+3. Applicaties (gekend binnen de api-gateway)
+
+Via de API 'Authz' kan een toepassing autorisaties van een subject opvragen op basis van een ID.
